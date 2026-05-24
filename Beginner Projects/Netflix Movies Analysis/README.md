@@ -89,6 +89,9 @@ Director Analysis
 
 🛠️ Technologies Used
 ```Python```
+
 ```Pandas```
+
 ```Matplotlib```
+
 ```Jupyter Notebook```
